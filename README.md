@@ -45,13 +45,14 @@ The model is trained on a skin disease image dataset containing multiple disease
 
 # Project Structure
 - skin-disease-prediction/
-│
-├── dataset/
-├── models/
-├── notebooks/
-├── skin_disease_prediction.ipynb
-├── requirements.txt
-└── README.md
+- │
+- ├── dataset/
+- ├── models/
+- ├── notebooks/
+- ├── skin_disease_prediction.ipynb
+- ├── requirements.txt
+- └── README.md
+  
 # Results
   - Achieved high accuracy on validation dataset
   - Successfully predicts skin disease from image input
